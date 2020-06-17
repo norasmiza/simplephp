@@ -1,4 +1,4 @@
 <?php
-echo "This is a simple php app";<br>
-echo "test"
+echo "This is a simple php app";
+<p>echo "test"
 ?>
